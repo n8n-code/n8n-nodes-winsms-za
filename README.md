@@ -55,9 +55,9 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Credits | GET Get your current WinSMS credit balance |
-| Sms | GET Get a list of incoming opt-out SMS messages |
-| Subaccounts | GET Get a list of all Sub Accounts. |
+| Credits | Get your current winsms credit balance |
+| Sms | Get a list of incoming optout sms messages |
+| Subaccounts | Get a list of all sub accounts |
 
 ---
 
